@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[34,)"
+license="All rights reserved"
+
+[[mods]]
+modId="cheatdetectionmicroserviceforgehook"
+version="${file.jarVersion}"
+displayName="Cheat Detection"
+authors="isokissa3"
+description="wow"
